@@ -1,0 +1,16 @@
+# Archivos intermedios: siempre se regeneran, nunca se suben
+.tmp/
+
+# Secretos y credenciales
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
