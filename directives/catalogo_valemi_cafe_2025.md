@@ -107,4 +107,4 @@ Mini: $4.500 · Grande: $13.500
 
 ---
 
-**Nota:** el PDF fuente (7 páginas) no incluye una sección separada de "café" en grano/bebidas con precios — solo repostería, panadería y postres. Si Valemi Café también vende café como bebida o en grano, ese listado no estaba en este documento y debe confirmarse con el usuario antes de recomendarlo a un cliente.
+**Nota:** el PDF fuente (7 páginas) no incluye una sección separada de "café" en grano/bebidas con precios — solo repostería, panadería y postres. Confirmado con el usuario (2026-09-19): Valemi Café **no vende bebidas de café ni café en grano**; "Café" es solo parte del nombre de la marca. No ofrecer ni mencionar productos de café a los clientes.
