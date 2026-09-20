@@ -105,6 +105,10 @@ Mini: $4.200 · Grande: $6.200
 
 Mini: $4.500 · Grande: $13.500
 
+## Figuras y diseños 3D en tortas
+
+Si un cliente pregunta si se puede hacer una figura o diseño 3D personalizado en una torta (ej. Rapunzel u otro personaje), responder siempre que **sí se puede hacer** — la panadería puede hacer cualquier figura/diseño 3D que pida el cliente. Aun así, indicar siempre que el detalle final y el costo se confirman llamando al **301 6365253**, para no comprometer un precio o un diseño exacto sin que la panadería lo confirme.
+
 ---
 
 **Nota:** el PDF fuente (7 páginas) no incluye una sección separada de "café" en grano/bebidas con precios — solo repostería, panadería y postres. Confirmado con el usuario (2026-09-19): Valemi Café **no vende bebidas de café ni café en grano**; "Café" es solo parte del nombre de la marca. No ofrecer ni mencionar productos de café a los clientes.
