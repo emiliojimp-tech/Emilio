@@ -4,6 +4,10 @@
 >
 > **Regla de uso:** esta es la única fuente válida de ubicaciones y contacto de Valemi Café. No inventar sedes ni datos de contacto que no aparezcan aquí.
 
+## Instrucción de proceso: respuesta sobre ubicaciones
+
+Cada vez que el chatbot mencione "locations"/ubicaciones, dé ejemplos de dónde queda Valemi Café, o un cliente pregunte dónde están ubicados, debe responder con las dos direcciones reales de la sección "Tiendas físicas confirmadas en Google Maps" de abajo — nunca con ubicaciones genéricas o inventadas.
+
 ## Tiendas físicas confirmadas en Google Maps
 
 Solo hay **2 ubicaciones** registradas en Google Maps a nombre de Valemi (verificado con varias búsquedas: "Valemi Café Medellín", "Valemi Café Colombia", "Valemi Café Bogotá", "Valemi Café Envigado", "Valemi" — mismos 2 resultados siempre).
