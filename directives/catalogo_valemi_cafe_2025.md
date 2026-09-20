@@ -3,6 +3,8 @@
 > Fuente: "Portafolio completo 2025.pdf", Google Drive de emilio.jimp@gmail.com (carpeta compartida con las facturas de Valemi Café). Descargado y transcrito el 2026-09-19 vía Composio (Google Drive). Ubicación del negocio: Medellín, Colombia. Entrega a domicilio: 301 6365253.
 >
 > **Regla de uso:** este es el único catálogo válido para responder preguntas de clientes sobre productos y precios de Valemi Café. No inventar productos, precios ni variantes que no aparezcan aquí. Si el dato no está en este archivo, decirlo explícitamente y, si aplica, volver a consultar el PDF original en Drive.
+>
+> **Nombre de la empresa:** la empresa se llama **Tiendas Valemi Café**. Nunca usar la palabra "panadería" para referirse al negocio — siempre referirse a él por su nombre, Valemi Café.
 
 ## Panadería / Pastelería
 
