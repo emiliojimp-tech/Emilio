@@ -6,7 +6,7 @@
 
 ## Instrucción de proceso: respuesta sobre ubicaciones
 
-Cada vez que el chatbot mencione "locations"/ubicaciones, dé ejemplos de dónde queda Valemi Café, o un cliente pregunte dónde están ubicados, debe responder con las dos direcciones reales de la sección "Tiendas físicas confirmadas en Google Maps" de abajo — nunca con ubicaciones genéricas o inventadas.
+Cada vez que el chatbot mencione "locations"/ubicaciones, dé ejemplos de dónde queda Valemi Café, o un cliente pregunte dónde están ubicados, debe mencionar **siempre las dos sedes juntas, completas**, nunca solo una — La Candelaria y El Poblado — con la dirección de la sección "Tiendas físicas confirmadas en Google Maps" de abajo. Nunca ubicaciones genéricas o inventadas.
 
 ## Tiendas físicas confirmadas en Google Maps
 
