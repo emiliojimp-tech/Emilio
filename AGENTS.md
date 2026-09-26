@@ -21,6 +21,9 @@
 
 ### Registro de aprendizajes
 
+- **2026-09-26 — Preferencia del usuario: autorización humana antes de cada acción:** El usuario pide no asumir nada: preguntar todo lo que no se sepa y pedir autorización antes de cada acción (conexiones, repos, commits). Flujo de proyectos: mostrar el plan completo → aprobación → construir → mostrar resultado → aprobación → fusionar a `main`. **Por qué importa:** no encadenar acciones por iniciativa propia; cada paso visible necesita un "sí" explícito.
+- **2026-09-26 — Una conexión de Composio "activa" puede no tener permisos reales:** La conexión `googlesuper` figuraba ACTIVE pero Gmail y Drive devolvían `403 ACCESS_TOKEN_SCOPE_INSUFFICIENT` (faltaron casillas en la pantalla de consentimiento de Google). Se reconectó con alias `pulpo` y marcando todos los permisos. **Por qué importa:** verificar siempre con una lectura mínima (`GOOGLESUPER_GET_PROFILE`, `GOOGLESUPER_GET_ABOUT`) y no fiarse del estado de la conexión.
+- **2026-09-26 — El agente no puede crear repos de GitHub desde la sesión:** `create_repository` del MCP de GitHub devuelve `403 Resource not accessible by integration`. El usuario crea el repo a mano (el del proyecto Pulpo es `emiliojimp-tech/proyecto-pulpo`) y luego se adjunta con `add_repo`. **Por qué importa:** pedir al usuario que cree el repo en vez de reintentar o rodear el bloqueo.
 <!-- Agrega nuevas entradas arriba de esta línea. -->
 
 - **2026-09-15 — La memoria de largo plazo vive en el repo, no en el chat:** El historial de una conversación no sobrevive entre sesiones ni se comparte entre entornos de IA agéntica; lo único que carga cualquier sesión nueva es lo que está escrito en `CLAUDE.md`/`AGENTS.md`/`GEMINI.md`. **Por qué importa:** cualquier aprendizaje que deba "no olvidarse" debe escribirse en esta sección (y replicarse en los tres archivos), nunca dejarse solo como texto en el chat.
